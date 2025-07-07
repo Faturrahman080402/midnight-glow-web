@@ -24,13 +24,12 @@ const HeroSection = () => {
         <div className="animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <span className="bg-hero-gradient bg-clip-text text-transparent">
-              Alex Johnson
+              Fatur Rahman
             </span>
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-            Full-Stack Developer & UI/UX Designer crafting beautiful, 
-            functional digital experiences with modern technologies
+            Computer Technology Student crafting functional websites, smart IoT systems, and secure networks with modern tools.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">

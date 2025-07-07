@@ -144,13 +144,13 @@ const ContactSection = () => {
                 <div className="space-y-4">
                   <div className="flex items-center space-x-3">
                     <Mail className="w-5 h-5 text-primary" />
-                    <span className="text-foreground">alex.johnson@example.com</span>
+                    <span className="text-foreground">faturrahman3384@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <div className="w-5 h-5 flex items-center justify-center">
                       <span className="text-primary text-sm">📍</span>
                     </div>
-                    <span className="text-foreground">San Francisco, CA</span>
+                    <span className="text-foreground">Balige, INA</span>
                   </div>
                 </div>
               </CardContent>
