@@ -1,73 +1,56 @@
-# Welcome to your Lovable project
+# 💼 Fatur Rahman - Portfolio
 
-## Project info
+Hi there! I'm **Fatur Rahman**, a soon-to-graduate Diploma (D3) student in **Computer Technology** with hands-on experience in web development, IoT, computer networking, network security, and 3D design.
 
-**URL**: https://lovable.dev/projects/96c0a3c8-9144-45dc-a877-9258848cd92c
+This repository contains the source code for my personal portfolio website, built to showcase my skills, projects, and background in technology.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 About Me
 
-**Use Lovable**
+I’m passionate about solving real-world problems using technology. I enjoy building responsive websites, automating environments with IoT, securing networks, and creating digital 3D designs. My learning journey includes both academic and self-taught projects that strengthen my technical and creative skills.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/96c0a3c8-9144-45dc-a877-9258848cd92c) and start prompting.
+> “Technology is not just about tools; it’s about solving problems and creating a better future.”
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Skills
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🌐 **Web Development**: HTML, CSS, JavaScript  
+- 🔧 **IoT & Embedded Systems**: Arduino, ESP32, NodeMCU  
+- 📡 **Networking**: IP Addressing, Routing, Cisco Packet Tracer  
+- 🔒 **Cybersecurity**: Basic penetration testing, DNS & ARP spoofing detection  
+- 🐧 **Linux**: Command Line, System Basics  
+- 🎨 **3D Design**: Blender  
+- 🔗 **Version Control**: Git & GitHub  
+- 🧰 **Tools**: VS Code, Figma, Wireshark, MySQL
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📁 Projects
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🔌 Smart Room IoT System
+> Automated a room using ESP32, UV sensor, and temperature sensor to control PDLC glass, curtain motor, and cooling fan based on environmental data.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🌐 Portfolio Website
+> This portfolio website is built with responsive design, dark theme UI, and modern layout using HTML, CSS, and a bit of JavaScript.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🌐 Network Simulation Lab
+> Designed and configured a simulated LAN/WAN network using Cisco Packet Tracer, including dynamic/static routing and subnetting practice.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🛡️ ARP & DNS Spoof Detection Tool
+> Created a basic Python-based tool to analyze and detect network sniffing attacks on a local network.
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📫 Contact
 
-**Use GitHub Codespaces**
+Feel free to connect or collaborate with me:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- 📧 Email: fatur.rahman@email.com  
+- 🐙 GitHub: [github.com/faturrahman](https://github.com/Faturrahman080402/)  
+- 💼 LinkedIn: [linkedin.com/in/faturrahman](https://www.linkedin.com/in/fatur-rahman-6711b4287/)
 
-## What technologies are used for this project?
+---
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/96c0a3c8-9144-45dc-a877-9258848cd92c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
