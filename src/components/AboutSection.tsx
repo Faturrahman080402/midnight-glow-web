@@ -26,7 +26,7 @@ const AboutSection = () => {
               <div className="absolute -inset-4 bg-hero-gradient rounded-3xl blur opacity-30 group-hover:opacity-50 transition-all duration-300"></div>
               <img 
                 src={profilePhoto} 
-                alt="Alex Johnson" 
+                alt="Fatur Rahman" 
                 className="relative w-80 h-80 object-cover rounded-2xl shadow-2xl transform group-hover:scale-105 transition-all duration-300"
               />
             </div>
@@ -37,14 +37,11 @@ const AboutSection = () => {
             <Card className="bg-card-gradient border-border/50 shadow-subtle-glow">
               <CardContent className="p-8">
                 <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                  With over 5 years of experience in full-stack development, I specialize in 
-                  creating scalable web applications and intuitive user interfaces. I'm passionate 
-                  about clean code, modern design principles, and delivering exceptional user experiences.
+                  Hi there! I'm Fatur Rahman, a soon-to-graduate Diploma (D3) student in Computer Technology with hands-on experience in web development, IoT, computer networking, network security, and 3D design.
                 </p>
                 
                 <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                  When I'm not coding, you'll find me exploring new technologies, contributing to 
-                  open-source projects, or sharing knowledge through technical writing and mentoring.
+                  I’m passionate about solving real-world problems using technology. I enjoy building responsive websites, automating environments with IoT, securing networks, and creating digital 3D designs. My learning journey includes both academic and self-taught projects that strengthen my technical and creative skills.
                 </p>
 
                 <div>
