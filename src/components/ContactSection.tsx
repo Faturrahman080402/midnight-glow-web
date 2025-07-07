@@ -41,25 +41,25 @@ const ContactSection = () => {
     {
       name: "Email",
       icon: Mail,
-      url: "mailto:alex.johnson@example.com",
+      url: "mailto:faturrahman3384@gmail.com",
       color: "hover:text-red-400"
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://linkedin.com/in/alexjohnson",
+      url: "https://www.linkedin.com/in/fatur-rahman-6711b4287",
       color: "hover:text-blue-400"
     },
     {
       name: "GitHub",
       icon: Github,
-      url: "https://github.com/alexjohnson",
+      url: "https://github.com/Faturrahman080402",
       color: "hover:text-gray-400"
     },
     {
-      name: "Twitter",
+      name: "X",
       icon: Twitter,
-      url: "https://twitter.com/alexjohnson",
+      url: "https://x.com/kaka76305",
       color: "hover:text-blue-400"
     }
   ];
