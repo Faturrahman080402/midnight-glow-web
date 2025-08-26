@@ -13,55 +13,37 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: "Analytics Dashboard",
-      description: "A comprehensive analytics platform built with React and Node.js, featuring real-time data visualization and advanced reporting capabilities.",
+      title: "PDLC Glass System with UV Detection",
+      description: "Leading the development of UV detection systems and automatic curtains to improve safety and energy efficiency, reducing UV exposure by up to 80% in indoor environments.",
       image: project1,
-      technologies: ["React", "Node.js", "MongoDB", "Chart.js"],
+      technologies: ["C", "Arduino IDE", "ML8511 Sensor", "DHT11", "Arduino Uno"],
       liveUrl: "#",
       githubUrl: "#"
     },
     {
       id: 2,
-      title: "E-Commerce Mobile App",
-      description: "Modern shopping application with intuitive UI, secure payment processing, and seamless user experience across all devices.",
+      title: "Automatic Garbage Collection Ship",
+      description: "3D casing design in SolidWorks for autonomous garbage collection ship that detects garbage in waters and monitors pollution levels using camera detection.",
       image: project2,
-      technologies: ["React Native", "Firebase", "Stripe", "Redux"],
+      technologies: ["SolidWorks", "3D Design", "Environmental Monitoring"],
       liveUrl: "#",
       githubUrl: "#"
     },
     {
       id: 3,
-      title: "Creative Portfolio Site",
-      description: "An elegant portfolio website for digital artists, featuring dynamic galleries, smooth animations, and responsive design.",
+      title: "I-Travel Website Information System",
+      description: "Comprehensive travel website providing information about tourist attractions, restaurants, accommodations, and travel routes between Kualanamu and Silangit Airports.",
       image: project3,
-      technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "Sanity"],
+      technologies: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
       liveUrl: "#",
       githubUrl: "#"
     },
     {
       id: 4,
-      title: "SaaS Analytics Platform",
-      description: "Enterprise-level analytics solution with advanced data processing, custom dashboards, and team collaboration features.",
+      title: "Mesh LoRa on NS3 Simulator",
+      description: "Development and simulation of LoRa Mesh networks using NS3 simulator to optimize long-range and energy-efficient communication performance for IoT applications.",
       image: project4,
-      technologies: ["React", "TypeScript", "PostgreSQL", "AWS"],
-      liveUrl: "#",
-      githubUrl: "#"
-    },
-    {
-      id: 5,
-      title: "Task Management App",
-      description: "Intuitive project management tool with drag-and-drop functionality, team collaboration, and productivity tracking.",
-      image: project5,
-      technologies: ["Vue.js", "Python", "Docker", "Redis"],
-      liveUrl: "#",
-      githubUrl: "#"
-    },
-    {
-      id: 6,
-      title: "API Documentation Portal",
-      description: "Developer-friendly documentation platform with interactive examples, testing tools, and comprehensive guides.",
-      image: project6,
-      technologies: ["Gatsby", "GraphQL", "Markdown", "Netlify"],
+      technologies: ["NS3", "Ubuntu", "LoRa", "Network Simulation"],
       liveUrl: "#",
       githubUrl: "#"
     }
@@ -79,7 +61,7 @@ const ProjectsSection = () => {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
+        <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {projects.map((project, index) => (
             <Card 
               key={project.id}

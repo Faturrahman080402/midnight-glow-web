@@ -3,8 +3,9 @@ import profilePhoto from "@/assets/profile-photo.jpg";
 
 const AboutSection = () => {
   const skills = [
-    "React", "TypeScript", "Node.js", "Python", 
-    "PostgreSQL", "AWS", "Docker", "Figma"
+    "Python", "C/C++", "JavaScript", "PHP", 
+    "Linux", "Docker", "Arduino", "SolidWorks",
+    "Cisco", "VMware", "Laravel", "IoT"
   ];
 
   return (
@@ -37,7 +38,7 @@ const AboutSection = () => {
             <Card className="bg-card-gradient border-border/50 shadow-subtle-glow">
               <CardContent className="p-8">
                 <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                  Hi there! I'm Fatur Rahman, a soon-to-graduate Diploma (D3) student in Computer Technology with hands-on experience in web development, IoT, computer networking, network security, and 3D design.
+                  Hi there! I'm Fatur Rahman, a final year student in IT Del Computer Technology Study Program from Toba, North Sumatra. I have a strong passion for technology, particularly in cybersecurity, cloud computing, and networking.
                 </p>
                 
                 <p className="text-lg text-muted-foreground leading-relaxed mb-8">

@@ -150,7 +150,7 @@ const ContactSection = () => {
                     <div className="w-5 h-5 flex items-center justify-center">
                       <span className="text-primary text-sm">📍</span>
                     </div>
-                    <span className="text-foreground">Balige, INA</span>
+                    <span className="text-foreground">Toba, North Sumatra</span>
                   </div>
                 </div>
               </CardContent>
