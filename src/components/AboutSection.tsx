@@ -38,11 +38,11 @@ const AboutSection = () => {
             <Card className="bg-card-gradient border-border/50 shadow-subtle-glow">
               <CardContent className="p-8">
                 <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                  Hi there! I'm Fatur Rahman, a final year student in IT Del Computer Technology Study Program from Toba, North Sumatra. I have a strong passion for technology, particularly in cybersecurity, cloud computing, and networking.
+                  Hi, I’m Fatur Rahman, a fresh graduate from the Computer Technology Study Program, IT Del in Toba, North Sumatra. I have a strong passion for cybersecurity, cloud computing, and networking, with additional interest in IoT automation, web development, and digital 3D design.
                 </p>
                 
                 <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                  I’m passionate about solving real-world problems using technology. I enjoy building responsive websites, automating environments with IoT, securing networks, and creating digital 3D designs. My learning journey includes both academic and self-taught projects that strengthen my technical and creative skills.
+                 I enjoy applying technology to solve real-world problems—whether it’s building responsive websites, automating systems with IoT, securing networks, or designing creative digital solutions. Through academic projects and self-learning, I have developed a balance of technical expertise, problem-solving skills, and adaptability to new challenges.
                 </p>
 
                 <div>
